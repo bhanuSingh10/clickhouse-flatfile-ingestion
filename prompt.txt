@@ -1,0 +1,13 @@
+AI Prompts Used for ClickHouse ↔ Flat File Ingestion Tool (Next.js Project)
+
+1. "Help me build a secure API route in Next.js to connect with ClickHouse using JWT tokens."
+2. "Create a React component with TailwindCSS that lets users upload CSV files and shows the column structure."
+3. "Generate a SQL query builder that supports joining multiple tables, with support for aliases, WHERE, ORDER BY, and LIMIT clauses."
+4. "What’s the best way to export large datasets from ClickHouse to CSV without using too much memory?"
+5. "Write error handling for when the user adds invalid join conditions or ambiguous SQL logic."
+6. "Suggest a clean and modular approach for building both import and export features between ClickHouse and flat files."
+7. "Use TypeScript to make sure that the code handles schema types correctly during CSV to ClickHouse upload."
+8. "Add real-time status updates to the UI so users know the progress of their upload/download."
+9. "How can I make JWT handling in my app secure for production, and avoid common mistakes?"
+10. "Give me a full checklist to document this project well, including setup instructions, tests, and AI prompts used."
+
